@@ -1,6 +1,9 @@
 
 # dps-laboratory2
 
+Nombre: Daniel Alejandro Diaz Ocampo
+Email: ddiazo00@estudiantes.unileon.es
+
 To run the test follow the next steps:
 
 - install libgtest-dev and cmake  by runing
